@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://thedoghouse-megaways-slot.com/
+Sitemap: https://thedoghouse-megaways-slot.com/sitemap.xml

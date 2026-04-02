@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#612b29",
+            "lang-select-color": "#222829",
+            "bg-light": "#612b29",
+            "welcome-bonus-bg": "#612b29",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#321615",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#D76657",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#DAA647",
+            "yellow": "#D76657",
+            "yellow-button": "#DAA647",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#D76657",
+            "casino-cards": "#612b29",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#D76657",
+            "providers-back": "#612b29",
+            "faq-label": "#612b29",
+            "bg-footer": "#612b29",
+            "copyright": "#e7e7d5",
+            "starColor": "#D76657",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5568"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5569",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "The Dog House Megaways Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5570",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "The Dog House Megaways"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "The Dog House Megaways",
+                    "title": "The Dog House Megaways: 117649 Ways, 7–30 Free Spins, x2\/x3 Multipliers, and 2 Bonus Modes",
+                    "description": "Explore The Dog House Megaways, a slot with up to 117649 ways to win, 7–30 free spins, two bonus modes, and x2\/x3 multiplier wilds. Discover the paytable, bonus features, demo mode, gameplay tips, and key slot details.",
+                    "canonical": "thedoghouse-megaways-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5571",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "thedoghouse-megaways-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5572"
+                },
+                "hero": {
+                    "title": "The Dog House Megaways — up to 117649 ways to win, 7–30 free spins, and x2\/x3 wilds",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5573",
+                    "imageSizeModifier": 10,
+                    "imageYModifier": -5,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5574",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Up to 117649 ways to win",
+                        "Two free spins modes to choose",
+                        "Wild symbols with x2 and x3",
+                        "Bright dog theme, easy interface",
+                        "Strong bonus round winning potential",
+                        "Megaways mechanics keep spins dynamic",
+                        "Great for demo and real play"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "The Dog House Megaways App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5575",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "The Dog House Megaways App",
+                    "mobileGooglePlayImageTitle": "The Dog House Megaways App",
+                    "mobileIosImageTitle": "The Dog House Megaways App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About The Dog House Megaways",
+                        "description1": "The Dog House Megaways is a colorful video slot that combines the familiar dog-themed style of the series with the fast-moving Megaways mechanic.",
+                        "items": [],
+                        "description2": "The game stands out because the number of winning ways changes on every spin, making each round feel more dynamic and less predictable. Its biggest strength comes from the bonus features, where multiplier wilds and a choice between two free spins modes can significantly increase the value of winning combinations.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5576",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "The Dog House Megaways is especially appealing to players who enjoy active reels and bonus rounds with strong upside. The controls are simple and easy to understand, so the slot feels comfortable even for newer players. At the same time, the game has enough depth to stay engaging thanks to its two distinct bonus experiences."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "The Dog House Megaways — slot review and features",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Dog House Megaways Key Features\n<\/h3>\n<p>\nThe Dog House Megaways is a highly dynamic slot built around the Megaways mechanic, where the number of winning ways can change from spin to spin. The game focuses heavily on bonus potential, so the main excitement comes not only from the base game but also from multiplier wilds and free spins triggers. Visually, the slot keeps the light and familiar dog-themed atmosphere of the series, while the gameplay feels faster and more eventful than the classic version. It is a strong option for players who enjoy a mix of colorful design, bonus variety, and higher volatility action.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nThe Dog House Megaways Main Characteristics\n<\/h4>\n<ul>\n            <li>• Provider: Pragmatic Play<\/li>\n            <li>• Mechanic: Megaways<\/li>\n            <li>• Maximum ways to win: up to 117649<\/li>\n            <li>• Theme: dogs, dog house, backyard style<\/li>\n            <li>• Wilds: multiplier wilds with x2 and x3<\/li>\n            <li>• Bonus feature: two free spins modes<\/li>\n            <li>• Free spins trigger: 3 to 6 scatters<\/li>\n            <li>• Volatility: high<\/li>\n            <li>• Best for: players who enjoy bonus-heavy gameplay<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nWhere to Play The Dog House Megaways\n<\/h3>\n<p>\nThe Dog House Megaways is usually available on licensed gaming platforms that offer modern video slots with Megaways mechanics. In most cases, the slot can be opened both in a browser version and on mobile devices, making it easy to play from a desktop, tablet, or smartphone. Many platforms allow players to start in demo mode before switching to real-money play. The Dog House Megaways is also often featured in collections of popular slots with bonus rounds and multiplier-based gameplay. For the best experience, it is worth choosing a platform with smooth performance, clear betting limits, and easy navigation.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Dog House Megaways Demo Mode\n<\/h3>\n<p>\nThe demo mode in The Dog House Megaways lets players explore the slot without risking real balance and gives enough space to understand its core mechanics. It is a practical way to observe how often bonus features appear, how multiplier wilds behave, and how the base game compares to the free spins rounds. In demo play, you can test betting levels, session pace, and your overall comfort with the slot before moving to real stakes. This mode is especially useful for learning how the game feels over a longer session and whether its high-energy style matches your preference.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Dog House Megaways Payout Table\n<\/h3>\n<p>\nThe Dog House Megaways uses a clear symbol structure built around premium dog symbols, classic card ranks, and special features. In the base game, wins become more valuable through multiplier wilds, while the bonus game can turn even a regular combination into a much stronger result. The table below highlights the most important payout-related elements of the slot in a practical and easy-to-read format.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #D76657;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Symbol Group<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">How It Works<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout Potential<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Premium Dog Symbols<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">These create the most valuable regular combinations.<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">High<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Card Symbols A, K, Q, J, 10<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">These appear more often and support base game wins.<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Low to Medium<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Wild x2 \/ x3<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Substitutes regular symbols and increases total win value.<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Very High in strong combinations<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Scatter<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Triggers one of the free spins bonus modes.<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Bonus Activation Value<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sticky Wilds<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Remain fixed in one bonus mode and build pressure over time.<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Growing Potential<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Raining Wilds<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Drop randomly during free spins for sudden win swings.<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Explosive Spin Potential<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Win in The Dog House Megaways Based on Real Play Experience\n<\/h3>\n<p>\nWinning in The Dog House Megaways is less about trying to guess the perfect moment and more about understanding the mechanics and staying disciplined during a session. Based on real player experience, this slot often performs better when given enough room to develop instead of being forced with oversized bets early on. The strongest results are usually tied to the bonus rounds, which means balance control in the base game matters more than expecting constant big returns. It is also important to know which bonus style suits you better: Sticky Wilds feels more progressive, while Raining Wilds delivers sharper bursts of action. In practice, the slot is usually more comfortable and effective when played with a clear session budget and no attempt to chase losses. The most realistic approach is to let the bonus potential work naturally without trying to force a result.\n<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "The Dog House Megaways — bonuses, features, and how to play",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Dog House Megaways Bonuses and Special Offers\n<\/h3>\n<p>\nThe Dog House Megaways is attractive because even the base game constantly points toward strong bonus potential. The main bonuses are built directly into the slot itself: scatter-triggered free spins, two different bonus modes, and multiplier wild symbols. This structure gives the player more than one bonus scenario and creates several ways to reach enhanced spins or a more rewarding feature round. On some gaming platforms, external offers may also appear around The Dog House Megaways, including slot free spins, welcome packages, or cashback promotions. In practice, this makes the game more flexible: one player may explore it in demo mode, another may use a welcome offer, and another may focus entirely on triggering the feature. Below are the key bonuses and special offers most commonly associated with this slot.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nScatter Trigger and Free Spins Entry\n<\/h4>\n<ul>\n            <li>• 3 scatters usually activate the bonus round and start the free spins feature. This is the main trigger many players focus on in The Dog House Megaways. With 4, 5, or 6 scatters, the bonus becomes more generous and creates a stronger setup. Example: 3 scatters can start a standard feature, while 6 scatters can unlock the maximum starting package of free spins.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSticky Wilds\n<\/h4>\n<ul>\n            <li>• This mode usually awards 7 to 20 free spins depending on the number of scatters. Its main strength is that wild symbols can stay locked in place, increasing the pressure and potential on later spins. Example: if 2 or 3 sticky wilds land early, the value of the entire bonus round can rise sharply.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRaining Wilds\n<\/h4>\n<ul>\n            <li>• This mode usually gives 15 to 30 free spins. Its defining feature is that wilds can drop randomly during the bonus, creating sudden bursts of action and payout potential. Example: a long 20 to 30 spin feature with several strong wild drops can outperform a shorter bonus by a wide margin.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWild Multipliers x2 and x3\n<\/h4>\n<ul>\n            <li>• In The Dog House Megaways, wilds do more than replace regular symbols because they also increase the final payout with x2 and x3 multipliers. This is one of the main reasons average-looking combinations can suddenly become much more valuable. Example: a regular win can grow significantly when 2 multiplier wilds connect within the same combination, especially inside free spins.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWelcome Offers on Gaming Platforms\n<\/h4>\n<ul>\n            <li>• On some platforms, the slot may be included in welcome packages for new players. These offers often combine a first deposit match with a pack of free spins. Example: 100% on the first deposit or 50 to 100 free spins is a common structure for a broad welcome promotion.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCashback Promotions\n<\/h4>\n<ul>\n            <li>• Some platforms support longer sessions with cashback offers that return a percentage of losses over a day or a week. This can be especially relevant for higher-volatility slots such as The Dog House Megaways. Example: 5% to 15% weekly cashback is a common external promotion format.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPromotional Free Spins\n<\/h4>\n<ul>\n            <li>• Platforms sometimes issue promotional free spins for popular provider collections or Megaways categories, and The Dog House Megaways often fits that format well. This can be a practical way to test the game or extend play without increasing your own spending. Example: 10, 20, or 50 promotional free spins is a common short-term campaign structure.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Dog House Megaways Free Spins and Multipliers\n<\/h3>\n<p>\nThe Dog House Megaways becomes especially exciting in the bonus section because that is where the slot shows its full identity. Players can choose between two different free spins modes, and each one offers a different rhythm, structure, and payout style. Additional value comes from x2 and x3 multiplier wilds, which can sharply increase the final result of a good bonus round.\n<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #D76657;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Trigger \/ Feature<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Sticky Wilds<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Raining Wilds<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>3 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">7 free spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">15 free spins<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>4 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10 free spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20 free spins<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>5 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">15 free spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">25 free spins<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>6 Scatters<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20 free spins<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">30 free spins<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Wild Multipliers<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x2 and x3<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">x2 and x3<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Mode Feature<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Wilds stay locked in place<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Wilds drop randomly<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bonus Style<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Progressive and building<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Sharp and dynamic<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nHow to Play The Dog House Megaways\n<\/h3>\n<p>\nThe Dog House Megaways is easy to start playing because its core logic becomes clear within the first few spins. The main goal is to choose a comfortable bet, watch the special symbols closely, and work toward a strong free spins trigger. The best results usually come not from rushing, but from understanding how Megaways works and how the two bonus modes differ.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 1. Choose Your Bet\n<\/h4>\n<ul>\n            <li>• Set a bet size that fits your balance and the expected length of your session. For a first try, a moderate level is usually the most practical starting point because this slot has high volatility.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 2. Check the Paytable\n<\/h4>\n<ul>\n            <li>• Before spinning, review the most valuable symbols and understand how scatters and wilds work. This makes it easier to recognize why some wins stay average while others become much stronger through multipliers.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 3. Start the Spin\n<\/h4>\n<ul>\n            <li>• Press spin after setting your stake and follow the number of winning ways available on that round. In The Dog House Megaways, the reel structure changes from spin to spin, which keeps the gameplay varied.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 4. Watch for Scatters\n<\/h4>\n<ul>\n            <li>• Landing 3 to 6 scatters activates the free spins feature. The more scatters appear at once, the better the starting conditions for the bonus round.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 5. Pick a Bonus Mode\n<\/h4>\n<ul>\n            <li>• Once free spins begin, players usually choose between Sticky Wilds and Raining Wilds. Sticky Wilds is more progressive, while Raining Wilds feels faster and more unpredictable.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep 6. Manage the Session\n<\/h4>\n<ul>\n            <li>• Set your own time and balance limit before you begin. Avoid increasing the bet only because of a losing streak, and keep the session under control to make the most of the slot’s bonus-focused design.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Dog House Megaways Playing Tips\n<\/h3>\n<p>\nThe Dog House Megaways feels stronger when the player respects its fast pace and bonus-heavy design. This slot can stay quiet for a while and then suddenly deliver a much stronger feature, which is why patience and bet control matter so much. Below are practical tips that help make the experience more confident, balanced, and comfortable.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStart with Demo Play\n<\/h4>\n<ul>\n            <li>• Test the slot without risk first to understand its rhythm and structure. Demo mode is especially useful for comparing the base game with the bonus rounds before real play begins.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUse a Moderate Bet\n<\/h4>\n<ul>\n            <li>• Avoid jumping into a high bet level from the first spins. Since the slot is high volatility, a healthier balance reserve gives you more room to let the game develop naturally.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nUnderstand the Bonus Modes\n<\/h4>\n<ul>\n            <li>• Sticky Wilds and Raining Wilds create very different bonus experiences. One builds through locked wilds, while the other depends on random wild drops across the feature.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDo Not Expect Big Wins Every Spin\n<\/h4>\n<ul>\n            <li>• The Dog House Megaways usually shows its real strength through bonus features rather than through constant base game payouts. Keeping realistic expectations helps reduce emotional pressure during play.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKeep a Session Limit\n<\/h4>\n<ul>\n            <li>• Decide in advance how much time and balance you want to use. Clear limits help you stay calm and avoid impulsive decisions during a more active session.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDo Not Change Direction After a Few Bad Spins\n<\/h4>\n<ul>\n            <li>• Short losing streaks do not define the full behavior of the slot. Raising the bet too sharply after only a few misses often increases pressure without improving the overall quality of the session.<\/li>\n<\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nThe Dog House Megaways Mistakes That Drain the Bankroll\n<\/h3>\n<p>\nThe Dog House Megaways may look light and friendly on the surface, but in practice it is an active and fairly demanding slot. In most cases, bankroll loss happens not because of the game itself, but because of the wrong approach to bet size, expectations, and session pacing. Below are the most common mistakes that are especially risky in this slot.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStarting with Bets That Are Too High\n<\/h4>\n<ul>\n            <li>• Some players try to catch a huge bonus immediately and put too much pressure on the balance from the first spins. In a high-volatility slot, this is one of the fastest ways to run through a bankroll.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nChasing the Bonus at Any Cost\n<\/h4>\n<ul>\n            <li>• After a long stretch without free spins, players may continue spinning only to force a trigger while ignoring their own limits. This creates emotional pressure and breaks session discipline.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRaising the Bet After Losses\n<\/h4>\n<ul>\n            <li>• Trying to recover with the very next spin is one of the most damaging habits in The Dog House Megaways. The Megaways structure does not guarantee any immediate bounce-back after a losing run.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSkipping Demo Mode\n<\/h4>\n<ul>\n            <li>• Many players move straight into real play without learning the rhythm of the slot first. As a result, expectations around win frequency become unrealistic and frustration appears much faster.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNot Understanding the Difference Between Bonus Modes\n<\/h4>\n<ul>\n            <li>• Choosing Sticky Wilds or Raining Wilds without any real understanding can make a bonus feel weaker simply because it does not match the player’s preferred style. A more informed choice creates a smoother experience.<\/li>\n<\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nPlaying Too Long Without Breaks\n<\/h4>\n<ul>\n            <li>• The longer a session continues without control, the higher the chance of impulsive decisions. Fatigue reduces attention to bet size, limits, and the overall quality of play.<\/li>\n<\/ul><br>\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What makes The Dog House Megaways different from the regular The Dog House?",
+                            "answer": "The main difference is the Megaways mechanic. In this version, the number of winning ways changes on every spin, which makes the gameplay feel more dynamic and less predictable."
+                        },
+                        {
+                            "title": "Can I play The Dog House Megaways without registration?",
+                            "answer": "This is often possible in demo mode if the platform allows free access without creating an account. For real-money play and financial features, registration is usually required."
+                        },
+                        {
+                            "title": "Does the slot have an autoplay feature?",
+                            "answer": "It often does, but availability depends on the platform and local restrictions. When available, autoplay can run a series of spins automatically."
+                        },
+                        {
+                            "title": "How are wins calculated in The Dog House Megaways?",
+                            "answer": "Wins are built through the Megaways structure, while the final value can be boosted by special symbols and multipliers. In practice, the strength of a result often depends on how wilds connect inside a winning combination."
+                        },
+                        {
+                            "title": "Is The Dog House Megaways beginner-friendly?",
+                            "answer": "Yes, the entry point is simple thanks to the clear interface and familiar theme. Still, new players benefit from understanding the difference between the base game and the two free spins modes before starting."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
